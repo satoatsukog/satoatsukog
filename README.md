@@ -41,4 +41,4 @@
 ---
 
 ### 📬 Connect with Me
-* **Telegram:** [@satoatsukog](https://t.me/atsukosa)
+* **Telegram:** [@atsukosa](https://t.me/atsukosa)
