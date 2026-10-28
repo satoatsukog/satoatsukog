@@ -12,7 +12,7 @@ Based in Katowice, Poland. Open to junior roles and freelance projects.
 | [Contact-Book-API](https://github.com/satoatsukog/Contact-Book-API) | REST API for contacts with search, Swagger, xUnit tests | C#, ASP.NET Core 8 |
 | [Task-Tracker-API](https://github.com/satoatsukog/Task-Tracker-API) | REST API for tasks with priorities, due dates and stats | C#, ASP.NET Core 8 |
 | [expense-tracker-frontend](https://github.com/satoatsukog/expense-tracker-frontend) | Web UI for the expense tracker API | HTML, CSS, JavaScript |
-| [sales-tracker](https://github.com/satoatsukog/salon) | Mobile-first sales and profit tracker | JavaScript, localStorage |
+| [codepulse-ai](https://github.com/satoatsukog/codepulse-ai) | Client-side code analysis and refactoring suite designed for instant vulnerability scanning and multi-language code audits | React, Next.js, Tailwind CSS, TypeScript |
 
 ## Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
