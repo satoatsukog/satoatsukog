@@ -13,6 +13,7 @@ Based in Katowice, Poland. Open to junior roles and freelance projects.
 | [Task-Tracker-API](https://github.com/satoatsukog/Task-Tracker-API) | REST API for tasks with priorities, due dates and stats | C#, ASP.NET Core 8 |
 | [expense-tracker-frontend](https://github.com/satoatsukog/expense-tracker-frontend) | Web UI for the expense tracker API | HTML, CSS, JavaScript |
 | [codepulse-ai](https://github.com/satoatsukog/codepulse-ai) | Client-side code analysis and refactoring suite designed for instant vulnerability scanning and multi-language code audits | React, Next.js, Tailwind CSS, TypeScript |
+| [job-tracker](https://github.com/satoatsukog/job-tracker) | Telegram bot for tracking job applications: guided input, status buttons and follow-up reminders. | Python, aiogram 3, Sqlite |
 
 ## Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
