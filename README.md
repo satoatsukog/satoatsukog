@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./fuji-dawn-lake-1920x1080.gif" alt="Animation" width="100%" />
+</p>
+
 # Davyd Shvetsov
 
 **Junior Full-Stack Developer · C# / .NET · React · Python**
