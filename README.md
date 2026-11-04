@@ -2,32 +2,29 @@
   <img src="./fuji-dawn-lake-1920x1080.gif" alt="Animation" width="100%" />
 </p>
 
-# Davyd Shvetsov
+# Hi, I'm Davyd
 
-**Junior Full-Stack Developer · C# / .NET · React · Python**
-Based in Katowice, Poland. Open to junior roles and freelance projects.
+**Junior Frontend & Python Developer** based in Katowice, Poland.
+I build interactive web interfaces with JavaScript and Python backends with FastAPI, and I automate routine work with scripts and Telegram bots.
 
-📩 satoatsukogh@icloud.com · 💼 [LinkedIn](https://www.linkedin.com/in/davyd-shvetsov-4136683b8/?locale=ru) · ✈️ [Telegram](https://t.me/atsukosa)
+## Tech stack
 
-## Featured projects
-| Project | What it is | Stack |
-|---|---|---|
-| [expense-tracker](https://github.com/satoatsukog/expense-tracker) | REST API for expense tracking: filters, monthly report, CSV export, tests, Docker, CI | Python, FastAPI |
-| [Contact-Book-API](https://github.com/satoatsukog/Contact-Book-API) | REST API for contacts with search, Swagger, xUnit tests | C#, ASP.NET Core 8 |
-| [Task-Tracker-API](https://github.com/satoatsukog/Task-Tracker-API) | REST API for tasks with priorities, due dates and stats | C#, ASP.NET Core 8 |
-| [expense-tracker-frontend](https://github.com/satoatsukog/expense-tracker-frontend) | Web UI for the expense tracker API | HTML, CSS, JavaScript |
-| [codepulse-ai](https://github.com/satoatsukog/codepulse-ai) | Client-side code analysis and refactoring suite designed for instant vulnerability scanning and multi-language code audits | React, Next.js, Tailwind CSS, TypeScript |
-| [job-tracker](https://github.com/satoatsukog/job-tracker) | Telegram bot for tracking job applications: guided input, status buttons and follow-up reminders. | Python, aiogram 3, Sqlite |
+| Area | Tools |
+|------|-------|
+| Frontend | HTML5, CSS3, JavaScript, React, Tailwind CSS |
+| Python | FastAPI, SQLAlchemy, pytest, Telegram Bot API, scripting |
+| Tools | Git, GitHub Actions, Docker |
 
-## Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Featured project: Expense Tracker
+
+A full-stack app split into two repositories:
+
+- [**expense-tracker**](https://github.com/satoatsukog/expense-tracker): REST API in Python (FastAPI, SQLAlchemy, SQLite) with automated tests, Docker and CI.
+- [**expense-tracker-frontend**](https://github.com/satoatsukog/expense-tracker-frontend): plain HTML, CSS and JavaScript interface with forms, filters, a monthly report and CSV export.
+
+## Contact
+
+- Email: satoatsukogh@icloud.com
+- Telegram: [@atsukosa](https://t.me/atsukosa)
+- Open to remote, hybrid and on-site roles
+
