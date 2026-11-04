@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./fuji-dawn-lake-1920x1080-ezgif.com-optimize.gif.gif" alt="Animation" width="100%" />
+  <img src="./fuji-dawn-lake-1920x1080-ezgif.com-optimize.gif" alt="Animation" width="100%" />
 </p>
 
 # Hi, I'm Davyd
