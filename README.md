@@ -4,7 +4,7 @@
 
 # Hi, I'm Davyd
 
-**Junior Frontend & Python Developer** based in Katowice, Poland.
+**Junior Frontend & Python Developer**.
 I build interactive web interfaces with JavaScript and Python backends with FastAPI, and I automate routine work with scripts and Telegram bots.
 
 ## Tech stack
