@@ -21,10 +21,12 @@ A full-stack app split into two repositories:
 
 - [**expense-tracker**](https://github.com/satoatsukog/expense-tracker): REST API in Python (FastAPI, SQLAlchemy, SQLite) with automated tests, Docker and CI.
 - [**expense-tracker-frontend**](https://github.com/satoatsukog/expense-tracker-frontend): plain HTML, CSS and JavaScript interface with forms, filters, a monthly report and CSV export.
+- [**job-tracker**](https://github.com/satoatsukog/job-tracker): Telegram bot for tracking job applications (Python, aiogram 3, SQLite.).
 
 ## Contact
 
 - Email: satoatsukogh@icloud.com
 - Telegram: [@atsukosa](https://t.me/atsukosa)
+- Personal Site: [Site](https://satoatsukog.github.io/portfolio/)
 - Open to remote, hybrid and on-site roles
 
